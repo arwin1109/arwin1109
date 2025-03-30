@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Aravind Balineni
 
-👨‍💻 *Software Engineer | RPA Specialist*
+👨‍💻 *Automation Technical Lead | RPA Specialist*
 
 ## About Me
 
