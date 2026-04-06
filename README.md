@@ -22,11 +22,11 @@ location: Hyderabad, India
 domain: Agentic AI · RPA · Intelligent Automation
 ```
 
-> *"I don't automate tasks — I architect intelligence into systems."*
+> *"I don't automate tasks  I architect intelligence into systems."*
 
-I sit at the intersection of **enterprise automation** and **frontier AI** — designing systems that don't just react, but reason. From UiPath orchestration to multi-agent LLM pipelines, I've led large teams, shipped production platforms, and helped clients turn AI buzzwords into measurable outcomes.
+I sit at the intersection of **enterprise automation** and **frontier AI**  designing systems that don't just react, but reason. From UiPath orchestration to multi-agent LLM pipelines, I've led large teams, shipped production platforms, and helped clients turn AI buzzwords into measurable outcomes.
 
-Currently building **PRISM** — an LLM Orchestration & Governance platform — and **LoopLine**, a self-hosted Human-in-the-Loop document review platform.
+Currently building **PRISM**  an LLM Orchestration & Governance platform  and **LoopLine**, a self-hosted Human-in-the-Loop document review platform.
 
 ---
 
@@ -37,17 +37,17 @@ Currently building **PRISM** — an LLM Orchestration & Governance platform — 
 <td width="50%">
 
 ### 🏗️ Active Platforms
-- **PRISM** — LLM orchestration, routing & governance layer with full PRD, investor pitch, and system architecture
-- **LoopLine** — Self-hosted HITL document review platform (Node.js/Express + PostgreSQL), integrated with UiPath & n8n
-- **Artha** — Personal finance intelligence app (React Native + FastAPI + llama.cpp + pgvector)
+- **PRISM**  LLM orchestration, routing & governance layer with full PRD, investor pitch, and system architecture
+- **LoopLine**  Self-hosted HITL document review platform (Node.js/Express + PostgreSQL), integrated with UiPath & n8n
+- **Artha**  Personal finance intelligence app (React Native + FastAPI + llama.cpp + pgvector)
 
 </td>
 <td width="50%">
 
 ### 🔬 Client Delivery Highlights
-- **Prior Authorization** — Prior Authorization automation on UiPath with AI Trust Layer
-- **Denial Management** — Utilizes AI to automate appeal letter generation and prevent denials
-- **Invoice data Extraction with self healing** — NVIDIA Nemotron + NIM + NeMo Guardrails + UiPath + LoopLine
+- **Prior Authorization**  Prior Authorization automation on UiPath with AI Trust Layer
+- **Denial Management**  Utilizes AI to automate appeal letter generation and prevent denials
+- **Invoice data Extraction with self healing**  NVIDIA Nemotron + NIM + NeMo Guardrails + UiPath + LoopLine
 
 </td>
 </tr>
