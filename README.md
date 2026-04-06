@@ -127,8 +127,8 @@ Running a production-grade home lab at **`code2vibe.dev`**:
 ```
 🔭  Building  →  PRISM (LLM Orchestration & Governance Platform)
 🛠️  Iterating →  LoopLine (HITL + UiPath + n8n integrations)  
-📚  Teaching  →  AI Automation Engineer training course (Indian IT market)
-🎯  Delivering →  Lyceum Health PA automation · Taylor Corp IDX Roadmap
+📚  Teaching  →  Training Fresher on AI and Automation
+🎯  Delivering →  Production level Agentic Automation solutions.
 🌱  Exploring  →  Multi-agent orchestration · NeMo Guardrails · BYOM on UiPath
 ```
 
