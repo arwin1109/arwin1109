@@ -45,9 +45,9 @@ Currently building **PRISM** — an LLM Orchestration & Governance platform — 
 <td width="50%">
 
 ### 🔬 Client Delivery Highlights
-- **Lyceum Health** — Prior Authorization automation on UiPath with AI Trust Layer
-- **Taylor Corporation** — IDX Modernization Roadmap with agentic AI classification
-- **AP Invoice Exception Handling POC** — NVIDIA Nemotron + NIM + NeMo Guardrails + UiPath + LoopLine
+- **Prior Authorization** — Prior Authorization automation on UiPath with AI Trust Layer
+- **Denial Management** — Utilizes AI to automate appeal letter generation and prevent denials
+- **Invoice data Extraction with self healing** — NVIDIA Nemotron + NIM + NeMo Guardrails + UiPath + LoopLine
 
 </td>
 </tr>
