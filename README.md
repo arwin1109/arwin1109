@@ -40,6 +40,7 @@ Currently building **PRISM**  an LLM Orchestration & Governance platform  and **
 - **PRISM**  LLM orchestration, routing & governance layer with full PRD, investor pitch, and system architecture
 - **LoopLine**  Self-hosted HITL document review platform (Node.js/Express + PostgreSQL), integrated with UiPath & n8n
 - **Artha**  Personal finance intelligence app (React Native + FastAPI + llama.cpp + pgvector)
+- **[enterprise-skills](https://github.com/arwin1109/enterprise-skills)**  Collection of Model Context Protocol (MCP) servers (Visio, SmartCOMM, SmartIQ) for enterprise automation workflows
 
 </td>
 <td width="50%">
@@ -64,11 +65,14 @@ Currently building **PRISM**  an LLM Orchestration & Governance platform  and **
 ![NeMo Guardrails](https://img.shields.io/badge/NeMo%20Guardrails-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 
 ### 🔧 Automation & RPA
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
 ![UiPath Orchestrator](https://img.shields.io/badge/Orchestrator-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
 ![UiPath Document Understanding](https://img.shields.io/badge/Document%20Understanding-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+![SmartCOMM](https://img.shields.io/badge/SmartCOMM-005B94?style=for-the-badge&logo=generic&logoColor=white)
+![SmartIQ](https://img.shields.io/badge/SmartIQ-0096D6?style=for-the-badge&logo=generic&logoColor=white)
 
 ### 💻 Backend & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
